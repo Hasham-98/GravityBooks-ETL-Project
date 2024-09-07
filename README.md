@@ -2,7 +2,7 @@ GravityBooks ETL Project
 Project Overview
 
 This project focuses on extracting data from an OLTP database of an online book store and transforming it into a data warehouse (DWH) optimized for analytics and reporting. 
-The ETL (Extract, Transform, Load) process was implemented using SQL Server Integration Services (SSIS), and the data warehouse is structured using a snowflake schema with fact and dimension tables.
+The ETL (Extract, Transform, Load) process was implemented using SQL Server Integration Services (SSIS), and the data warehouse is structured using a Galaxy schema with fact and dimension tables.
 
 Project Structure
 Source: OLTP Database
